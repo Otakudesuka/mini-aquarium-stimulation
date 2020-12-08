@@ -7,5 +7,5 @@ The pillar is set a center point for them, such that if the distance between a c
 In order to view the stimulation : 
 1. Download the zip folder.
 2. Extract all the folders inside it.
-3. Run the aquarium stimulation.zip.
+3. Run the mini aquarium.exe
 4. And enjoy the stimulation.
